@@ -1,0 +1,47 @@
+For dropout 0.30
+32 64
+Training set accuracy {'accuracy': 0.90134919, 'loss': 0.26699808, 'global_step': 10000}
+validation set accuracy {'accuracy': 0.89892858, 'loss': 0.26727545, 'global_step': 10000}
+Test accuracy {'accuracy': 0.90742856, 'loss': 0.25485015, 'global_step': 10000}
+64 128
+Training set accuracy {'accuracy': 0.89954364, 'loss': 0.26833287, 'global_step': 10000}
+validation set accuracy {'accuracy': 0.89910716, 'loss': 0.26699775, 'global_step': 10000}
+Test accuracy {'accuracy': 0.90721428, 'loss': 0.25618285, 'global_step': 10000}
+128 256
+Training set accuracy {'accuracy': 0.90037698, 'loss': 0.26520491, 'global_step': 10000}
+validation set accuracy {'accuracy': 0.89928573, 'loss': 0.26478675, 'global_step': 10000}
+Test accuracy {'accuracy': 0.9069286, 'loss': 0.25473234, 'global_step': 10000}
+ For dropout 0.40
+32 64
+Training set accuracy {'accuracy': 0.89515871, 'loss': 0.27771208, 'global_step': 10000}
+validation set accuracy {'accuracy': 0.89285713, 'loss': 0.27534744, 'global_step': 10000}
+Test accuracy {'accuracy': 0.90135711, 'loss': 0.26559976, 'global_step': 10000}
+
+Using AdamOptimiser
+For dropout 0.40
+32 64
+Training set accuracy {'accuracy': 0.94714284, 'loss': 0.13676977, 'global_step': 2000}
+validation set accuracy {'accuracy': 0.94410712, 'loss': 0.15439203, 'global_step': 2000}
+Test accuracy {'accuracy': 0.94035715, 'loss': 0.15354592, 'global_step': 2000}
+64 128
+Training set accuracy {'accuracy': 0.93579364, 'loss': 0.16461349, 'global_step': 1000}
+validation set accuracy {'accuracy': 0.93410712, 'loss': 0.17125739, 'global_step': 1000}
+Test accuracy {'accuracy': 0.93457144, 'loss': 0.16714543, 'global_step': 1000}
+128 256
+Training set accuracy {'accuracy': 0.92555553, 'loss': 0.19548431, 'global_step': 1000}
+validation set accuracy {'accuracy': 0.92214286, 'loss': 0.20418282, 'global_step': 1000}
+Test accuracy {'accuracy': 0.92307144, 'loss': 0.20004663, 'global_step': 1000}
+
+ For dropout 0.50
+32 64
+Training set accuracy {'accuracy': 0.93267858, 'loss': 0.16984062, 'global_step': 1000}
+validation set accuracy {'accuracy': 0.93339288, 'loss': 0.17521785, 'global_step': 1000}
+Test accuracy {'accuracy': 0.93142855, 'loss': 0.17155841, 'global_step': 1000}
+64 128
+Training set accuracy {'accuracy': 0.94003969, 'loss': 0.15690202, 'global_step': 1000}
+validation set accuracy {'accuracy': 0.93892854, 'loss': 0.16877748, 'global_step': 1000}
+Test accuracy {'accuracy': 0.93785715, 'loss': 0.1625112, 'global_step': 1000}
+128 256
+Training set accuracy {'accuracy': 0.93531746, 'loss': 0.18713054, 'global_step': 1000}
+validation set accuracy {'accuracy': 0.93464285, 'loss': 0.19151181, 'global_step': 1000}
+Test accuracy {'accuracy': 0.93321431, 'loss': 0.19136761, 'global_step': 1000}

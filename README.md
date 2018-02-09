@@ -11,10 +11,10 @@ code folder consists of below files:
 3. Automate.py: used for hyperparameter tuning
 
 References:
-Stackoverflow.com,
-Python, Numpy and TensorFlow documentations,
-https://cs231n.github.io/convolutional-networks/,
-Liu, Ziwei; Luo, Ping; Wang, Xiaogang; Tang, Xiaoou. “Deep Learning Face Attributes in the Wild”
+1. Stackoverflow.com,
+2. Python, Numpy and TensorFlow documentations,
+3. https://cs231n.github.io/convolutional-networks/,
+4. Liu, Ziwei; Luo, Ping; Wang, Xiaogang; Tang, Xiaoou. “Deep Learning Face Attributes in the Wild”
 
 
 
